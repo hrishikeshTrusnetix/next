@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
-          <li>Save evuyrf</li>
+          <li>Save React</li>
         </ol>
 
         <div className={styles.ctas}>
