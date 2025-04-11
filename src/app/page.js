@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
-          <li>Save Hrishikesh</li>
+          <li>Save Debojit & Kamal</li>
         </ol>
 
         <div className={styles.ctas}>
